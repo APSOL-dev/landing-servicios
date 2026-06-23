@@ -30,12 +30,13 @@
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link rel="preconnect" href="https://assets.calendly.com" />
-  <link rel="preconnect" href="https://connect.facebook.net" />
 
   <!-- Google Fonts: display=swap evita FOIT (texto invisible mientras carga) -->
-  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Inter:wght@400;500;600;700&display=swap" media="print" onload="this.media='all'" />
+  <noscript>
+    <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  </noscript>
 
-  <!-- Calendly CSS: carga asíncrona diferida (noscript como fallback) -->
   <noscript><link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet" /></noscript>
 
   <style>
@@ -1148,7 +1149,7 @@
       box-shadow: 0 0 0 5px var(--surface);
       flex-shrink: 0;
     }
-    .timeline-step h4 {
+    .timeline-step h3 {
       font-size: 0.88rem;
       font-weight: 700;
       color: var(--white);
@@ -1242,6 +1243,8 @@
       </a>
     </div>
   </nav>
+
+  <main>
 
   <!-- HERO -->
   <section id="hero">
@@ -1405,28 +1408,28 @@
           <div class="timeline-step">
             <div class="timeline-num">1</div>
             <div>
-              <h4>Discovery, análisis y conceptualización</h4>
+              <h3>Discovery, análisis y conceptualización</h3>
               <p>Mapeamos la operación, identificamos cuellos de botella y validamos la solución con wireframes. Sin código hasta que el cliente aprueba.</p>
             </div>
           </div>
           <div class="timeline-step">
             <div class="timeline-num">2</div>
             <div>
-              <h4>Desarrollo e implementación</h4>
+              <h3>Desarrollo e implementación</h3>
               <p>Construimos el sistema a medida con IA integrada, infraestructura en la nube y arquitectura que escala con la empresa.</p>
             </div>
           </div>
           <div class="timeline-step">
             <div class="timeline-num">3</div>
             <div>
-              <h4>Feedback y control de calidad</h4>
+              <h3>Feedback y control de calidad</h3>
               <p>Probamos con el equipo real, incorporamos los comentarios y ajustamos hasta que el sistema tenga usabilidad real.</p>
             </div>
           </div>
           <div class="timeline-step">
             <div class="timeline-num">4</div>
             <div>
-              <h4>Capacitación, implementación y estabilización</h4>
+              <h3>Capacitación, implementación y estabilización</h3>
               <p>Capacitamos al equipo, lanzamos a producción y acompañamos las primeras semanas. Llave en mano.</p>
             </div>
           </div>
@@ -1776,6 +1779,8 @@
 
     </div>
   </section>
+
+  </main>
 
   <!-- FOOTER -->
   <footer>
