@@ -1,0 +1,37 @@
+# ── Sistema operativo ──
+Thumbs.db
+desktop.ini
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+
+# ── Editores ──
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ── Python / scripts de dev ──
+__pycache__/
+*.py[cod]
+*.pyo
+scratch/
+*.ps1
+
+# ── Archivos de respaldo y temporales ──
+"Hiper Limpieza_logo.png"
+refri-integral-logo.jpg
+BASE LANDING index.html
+apsol-landing-generico.html
+index-generico.html
+*.bak
+*.tmp
+*.log
+
+# ── Node (por si se agrega toolchain en el futuro) ──
+node_modules/
+npm-debug.log*
