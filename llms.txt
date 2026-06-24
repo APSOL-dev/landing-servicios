@@ -1,0 +1,15 @@
+# Apsol — Consultora de Digitalización y Procesos
+
+> Apsol es una consultora especializada en digitalizar y profesionalizar la operación de PyMEs y empresas en 90 días mediante sistemas a medida, inteligencia artificial y optimización de procesos de negocio.
+
+## Secciones y Contenido
+
+- [Inicio](https://retailyservicios.apsol-consultora.com.ar/#hero): Presentación de la propuesta de valor y acceso rápido.
+- [Métricas y Pérdidas](https://retailyservicios.apsol-consultora.com.ar/#numeros): Estadísticas de implementación.
+- [Problemas Comunes](https://retailyservicios.apsol-consultora.com.ar/#problemas): Análisis de ineficiencias en operaciones, decisiones a ciegas y WhatsApp/Excel.
+- [Método de 90 Días](https://retailyservicios.apsol-consultora.com.ar/#promesa): Proceso de implementación garantizado en 4 etapas.
+- [Servicios y Soluciones](https://retailyservicios.apsol-consultora.com.ar/#incluye): Integración de sistemas, automatización de tareas y soporte con IA.
+- [Soporte Técnico](https://retailyservicios.apsol-consultora.com.ar/#mantenimiento): Planes de mantenimiento preventivo, hosting y soporte técnico 24/7.
+- [Quiénes Somos](https://retailyservicios.apsol-consultora.com.ar/#quienes): Información sobre nuestro equipo y experiencia en el sector.
+- [Casos de Éxito](https://retailyservicios.apsol-consultora.com.ar/#clientes): Testimonios y logotipos de empresas que ya confían en nosotros.
+- [Contacto y Agenda](https://retailyservicios.apsol-consultora.com.ar/#contacto): Enlace para agendar una consultoría de diagnóstico gratuita de 30 minutos vía Calendly.
